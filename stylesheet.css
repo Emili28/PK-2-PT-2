@@ -2,6 +2,6 @@ body{
   background-color: tomato;
 }
 
-div{
-  background-color: #7b1;
+.container-navbar{
+  background-color: #333;
 }
