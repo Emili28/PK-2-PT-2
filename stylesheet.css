@@ -4,9 +4,7 @@ html{
   padding: 0;
 }
 
-.container{
-  height: 100vh;
-}
+.container{}
 
 .container-navbar{
   background-color: #333;
