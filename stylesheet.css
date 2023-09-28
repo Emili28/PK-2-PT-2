@@ -4,9 +4,13 @@ html{
   padding: 0;
 }
 
+body{
+  height: 100vh;
+}
+
 .container-navbar{
   background-color: #333;
-  width: 50%;
+  width: 100%;
   height: 15%;
 }
 
@@ -26,7 +30,6 @@ html{
 }
 
 .container-content{
-  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,5 +41,12 @@ html{
 }
 
 .container-footer{
-  
+  background-color: crimson;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1-footer{
+  font-size: 40px;
 }
